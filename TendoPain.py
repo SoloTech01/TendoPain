@@ -47,7 +47,7 @@ def ddos_attack():
         print(RESET)
     except:
         print(RED)
-        print("An error occured! \nEnsure the inputted url is correct")
+        print("An error occured! \nEnsure the inputted url is correct and also make sure number of requests is an integer")
         print(RESET)
         time.sleep(3)
     	
