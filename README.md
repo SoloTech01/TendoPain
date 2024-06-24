@@ -6,7 +6,7 @@ Go to https://f-droid.org/en/packages/com.termux/ and download termux
 
 **INSTALLING TENDO PAIN IN TERMUX**
 
-**INPUT THIS COMMANDS**
+**INPUT THIS COMMANDS:**
 
 apt update && apt upgrade
 
