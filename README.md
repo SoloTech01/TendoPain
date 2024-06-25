@@ -22,4 +22,6 @@ pip install -r requirements.txt
 
 **RUNNING TENDO PAIN ON TERMUX**
 
+cd TendoPain
+
 python3 TendoPain.py
