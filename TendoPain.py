@@ -18,9 +18,9 @@ print("""
 ─░█── ▀▀▀ ▀──▀ ▀▀▀─ ▀▀▀▀ 　 ░█─── ▀──▀ ▀▀▀ ▀──▀
 """)
 print("WARNING: THIS TOOL WAS CREATED FOR EDUCATIONAL PURPOSES,AND I WILL NOT BE RESPONSIBLE FOR ANY DAMAGE CAUSED USING THIS TOOL")
-print(RESET)
-print(f"{GREEN}.......{RESET}")
-time.sleep(5)
+print(f"{GREEN}[✓]TURN ON MOBILE DATA CONNECTION OR WIFI FOR THIS TOOL TO FUNCTION")
+print(f".......{RESET}")
+time.sleep(7)
 def get_ip():
     try:
         print(YELLOW)
