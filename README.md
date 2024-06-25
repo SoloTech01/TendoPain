@@ -12,6 +12,8 @@ apt update && apt upgrade
 
 pkg install git
 
+apt install pip
+
 pkg install python3
 
 git clone https://github.com/SoloTech01/TendoPain.git
