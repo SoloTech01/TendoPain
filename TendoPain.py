@@ -68,9 +68,9 @@ def program_intro():
 	print("*********" * 6)
 	print("""
 [+] Tool name: Tendo Pain
-[+] Author: Solomon Adenuga
+[+] Author: Solomon Adenuga (Logeek)
 [+] Version: 1.0
-[+] Github: https://github.com/SoloTech01
+[+] Github: https://github.com/TheLogeek
 [+] Whatsapp: +2348023710562
 """)
 	print("*********" * 6)
