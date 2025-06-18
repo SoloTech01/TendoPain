@@ -118,7 +118,7 @@ Tendo Pain a tool written in python for getting websites' ip adressses and initi
 		os.system("""
 		cd -
 		rm -rf TendoPain
-		git clone https://github.com/SoloTech01/TendoPain.git
+		git clone https://github.com/TheLogeek/TendoPain.git
 		cd TendoPain
 		python3 TendoPain.py
 			""")
